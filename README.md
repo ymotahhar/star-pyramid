@@ -1,2 +1,2 @@
 # star-pyramid
- Building a pyramid with stars
+ Building a pyramid with stars.
